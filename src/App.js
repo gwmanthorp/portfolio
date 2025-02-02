@@ -213,7 +213,7 @@ export default function Portfolio() {
           <Linkedin className="w-6 h-6" />
         </a>
         <a
-          href="/George_Manthorp_CV.docx"
+          href="./George_Manthorp_CV.docx"
           className="hover:scale-125 transition-transform"
           onMouseEnter={() => setShowCursor(false)}
           onMouseLeave={() => setShowCursor(true)}
